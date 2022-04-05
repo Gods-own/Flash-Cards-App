@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flash-Cards-App/static/css/main.4cb4255f.css",
+    "main.js": "/Flash-Cards-App/static/js/main.63179318.js",
+    "static/js/787.28035159.chunk.js": "/Flash-Cards-App/static/js/787.28035159.chunk.js",
+    "index.html": "/Flash-Cards-App/index.html",
+    "main.4cb4255f.css.map": "/Flash-Cards-App/static/css/main.4cb4255f.css.map",
+    "main.63179318.js.map": "/Flash-Cards-App/static/js/main.63179318.js.map",
+    "787.28035159.chunk.js.map": "/Flash-Cards-App/static/js/787.28035159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb4255f.css",
+    "static/js/main.63179318.js"
+  ]
+}
